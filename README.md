@@ -23,7 +23,7 @@
 > > - [Fluxo de Rotas com Autenticação](https://github.com/DFMaia/react-fluxo-rotas-autenticacao)
 > 
 > > _**Próximo Projeto:**_
-> > - [Projeto React SPA](https://github.com/DFMaia/react-spa)
+> > - [Projeto React Filmaria](https://github.com/DFMaia/react-filmaria)
 
 ### Sobre os links:
 
